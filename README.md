@@ -11,7 +11,9 @@ Résultat attendu (ordre non important) :
 
 ## Usage générique
 ```bash
-# N mois (par défaut 3) et date de référence "now" (optionnelle, ISO)
+
+# N mois (par défaut 3) et date de référence "now" (optionnelle)
 npm run exo3 -- [N] [YYYY-MM-DD]
+
 # ex: npm run exo3 -- 6 2022-01-15
 ```
