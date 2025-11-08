@@ -1,0 +1,10 @@
+{
+  "name": "exercise3-security-checks",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "exo3": "node exo3.js",
+    "exo3:example": "node exo3.js 3 2021-12-01"
+  }
+}
